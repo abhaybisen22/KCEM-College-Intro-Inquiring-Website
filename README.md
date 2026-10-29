@@ -119,11 +119,12 @@ Dynamic content rendering
 
 👨‍💻 Author
 Abhay Bisen
+Data Analyst / Web Development.  Project
 
 Home page of the website.
 <img width="1870" height="897" alt="ss" src="https://github.com/user-attachments/assets/62936ade-0558-4871-a593-d928a74893a4" />
 
-Data Analyst / Web Development.  Project
+
 
 📄 License
 This project is developed for educational and learning purposes.
